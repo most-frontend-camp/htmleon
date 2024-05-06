@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    background-color: #aa80f3;
+    background-color: orange;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -15,7 +15,7 @@ header h1 {
 }
 
 nav {
-    background-color: #aa80f3;
+    background-color: orange;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -44,14 +44,14 @@ main {
 }
 
 footer {
-    background-color: #aa80f3;
+    background-color: orange;
     color: #fff;
     padding: 20px;
     text-align: center;
 }
 
 button {
-    background-color: #aa80f3; /* Green */
+    background-color: black; /* Green */
     border: none;
     border-radius: 10px;
     color: white;
